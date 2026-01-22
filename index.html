@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Car World Book</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="javascript.js" defer></script>
+</head>
+<body>
+    <div class="Book">
+        <div class="header">
+            <div class="logo-section">
+                <svg class="logo-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+                    <!-- Car Body -->
+                    <ellipse cx="50" cy="65" rx="35" ry="15" fill="currentColor" opacity="0.9"/>
+                    <!-- Car Top -->
+                    <rect x="25" y="35" width="50" height="25" rx="8" fill="currentColor"/>
+                    <!-- Windshield -->
+                    <polygon points="30,40 35,35 65,35 70,40" fill="#e8f4f8" opacity="0.8"/>
+                    <!-- Window -->
+                    <rect x="40" y="42" width="20" height="12" rx="2" fill="#b3e5fc" opacity="0.7"/>
+                    <!-- Front Wheel -->
+                    <circle cx="28" cy="68" r="8" fill="currentColor"/>
+                    <circle cx="28" cy="68" r="5" fill="#666"/>
+                    <circle cx="28" cy="68" r="3" fill="#999"/>
+                    <!-- Rear Wheel -->
+                    <circle cx="72" cy="68" r="8" fill="currentColor"/>
+                    <circle cx="72" cy="68" r="5" fill="#666"/>
+                    <circle cx="72" cy="68" r="3" fill="#999"/>
+                    <!-- Headlights -->
+                    <circle cx="22" cy="50" r="3" fill="#ffeb3b" opacity="0.9"/>
+                    <circle cx="78" cy="50" r="3" fill="#ffeb3b" opacity="0.9"/>
+                </svg>
+            </div>
+            <h1>Car World Book</h1>
+            <input type="text" id="searchBar" placeholder="Search for cars...">
+            
+            <!-- Dark Mode Toggle & Color Picker -->
+            <div class="controls">
+                <div class="toggle-group">
+                    <label class="toggle-label">Dark Mode</label>
+                    <button id="toggleDarkMode" class="toggle-btn dark-mode-toggle">
+                        <span class="toggle-slider"></span>
+                    </button>
+                </div>
+                
+                <!-- Color Picker Toggle -->
+                <div class="color-picker-group">
+                    <label class="toggle-label">Theme</label>
+                    <div class="color-options">
+                        <button class="color-btn" data-theme="default" title="Default"></button>
+                        <button class="color-btn" data-theme="yellowgreen" title="Yellow Green"></button>
+                        <button class="color-btn" data-theme="mediumspringgreen" title="Medium Spring Green"></button>
+                        <button class="color-btn" data-theme="deepskyblue" title="Deep Sky Blue"></button>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="carContainer" class="car-container"></div>
+    </div>
+    <footer>
+        <div class="footer-content">
+            <p>&copy; 2026 Car World Book</p>
+            <p>Created by Sadaf Mapari</p>
+            <p>A frontend learning project</p>
+            <div class="social-icons">
+                <a href="https://www.linkedin.com/in/sadaf-mapari-06675b2a6/" target="_blank" title="LinkedIn" class="social-icon linkedin">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="#0077B5" class="icon">
+                        <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.475-2.236-1.986-2.236-1.081 0-1.722.722-2.004 1.418-.103.249-.129.597-.129.946v5.441h-3.554s.047-8.821 0-9.537h3.554v1.348c.429-.659 1.191-1.598 2.895-1.598 2.117 0 3.704 1.384 3.704 4.362v5.425zM5.337 9.433c-1.144 0-1.915-.759-1.915-1.708 0-.954.768-1.707 1.964-1.707 1.193 0 1.915.754 1.94 1.707 0 .949-.747 1.708-1.989 1.708zm1.582 11.019H3.771V9.915h3.148v10.537zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.225 0z"/>
+                    </svg>
+                </a>
+                <a href="https://www.instagram.com/maparisadaf.codes/" target="_blank" title="Instagram" class="social-icon instagram">
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" class="icon">
+                        <defs>
+                            <linearGradient id="instagram-gradient" x1="0%" y1="100%" x2="100%" y2="0%">
+                                <stop offset="0%" style="stop-color:#feda75;stop-opacity:1" />
+                                <stop offset="5%" style="stop-color:#fa7e1e;stop-opacity:1" />
+                                <stop offset="45%" style="stop-color:#d92e7f;stop-opacity:1" />
+                                <stop offset="60%" style="stop-color:#9b36b7;stop-opacity:1" />
+                                <stop offset="90%" style="stop-color:#515bd4;stop-opacity:1" />
+                            </linearGradient>
+                        </defs>
+                        <path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.266.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zM5.838 12a6.162 6.162 0 1 1 12.324 0 6.162 6.162 0 0 1-12.324 0zM12 16a4 4 0 1 1 0-8 4 4 0 0 1 0 8zm4.965-10.322a1.44 1.44 0 1 1 2.881.001 1.44 1.44 0 0 1-2.881-.001z" fill="url(#instagram-gradient)"/>
+                    </svg>
+                </a>
+                
+                <a href="https://wa.me/8652600682" target="_blank" title="WhatsApp" class="social-icon whatsapp">
+                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" class="icon">
+                         <path d="M16.003 2.003c-7.732 0-14 6.268-14 14 0 2.732.785 5.285 2.144 7.45L2 30l6.77-2.087A13.93 13.93 0 0 0 16.003 30c7.732 0 14-6.268 14-14s-6.268-13.997-14-13.997zm0 25.47a11.45 11.45 0 0 1-5.838-1.596l-.419-.247-4.02 1.24 1.282-3.914-.273-.403a11.47 11.47 0 1 1 9.268 4.92zm6.49-8.732c-.354-.177-2.093-1.032-2.417-1.15-.324-.118-.56-.177-.795.177-.236.354-.914 1.15-1.12 1.385-.207.236-.413.265-.767.088-.354-.177-1.495-.551-2.846-1.758-1.05-.936-1.758-2.093-1.965-2.447-.206-.354-.022-.545.155-.721.159-.159.354-.413.531-.619.177-.207.236-.354.354-.59.118-.236.059-.442-.03-.619-.088-.177-.795-1.92-1.09-2.63-.289-.694-.583-.6-.795-.611l-.677-.012c-.236 0-.619.088-.943.442-.324.354-1.237 1.208-1.237 2.945 0 1.738 1.267 3.418 1.444 3.654.177.236 2.494 3.806 6.043 5.336.844.365 1.502.583 2.016.744.847.269 1.619.23 2.23.14.681-.101 2.093-.854 2.387-1.673.295-.818.295-1.515.206-1.673-.088-.147-.324-.236-.678-.413z"/>
+                </svg>
+               </a>
+            
+            </div>
+        </div>
+    </footer>
+    
+
+</body>
+</html>

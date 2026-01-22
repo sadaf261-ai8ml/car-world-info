@@ -1,0 +1,198 @@
+[{"name":"Lamborghini Centenario","year":2018,"color":"Black","price":1950000,"image":"centenario.png","specifications":{"engine":"6.5L V12","horsepower":770,"0-60mph":"2.8s","top_speed":"217 mph"}},
+{"name":"Lamborghini Gallardo LP 570-4 Superleggera","year":2018,"color":"Orange","price":203000,"image":"gallardo.png","specifications":{"engine":"5.2L V10","horsepower":570,"0-60mph":"3.4s","top_speed":"202 mph"}},
+{"name":"Lamborghini Veneno","year":2019,"color":"Red","price":4500000,"image":"veneno.png","specifications":{"engine":"6.5L V12","horsepower":740,"0-60mph":"2.9s","top_speed":"221 mph"}},
+{"name":"Lamborghini Sián FKP 37","year":2020,"color":"Gold","price":3600000,"image":"sian.png","specifications":{"engine":"6.5L V12 hybrid","horsepower":819,"0-60mph":"2.8s","top_speed":"217 mph"}},
+{"name":"Lamborghini Aventador","year":2020,"color":"Yellow","price":393695,"image":"aventador.png","specifications":{"engine":"6.5L V12","horsepower":730,"0-60mph":"2.9s","top_speed":"217 mph"}},
+{"name":"Lamborghini Huracan EVO","year":2021,"color":"Green","price":261274,"image":"huracan.png","specifications":{"engine":"5.2L V10","horsepower":630,"0-60mph":"2.9s","top_speed":"202 mph"}},
+{"name":"Lamborghini Urus","year":2022,"color":"Blue","price":218009,"image":"urus.webp","specifications":{"engine":"4.0L V8 twin-turbocharged","horsepower":641,"0-60mph":"3.6s","top_speed":"190 mph"}},
+{"name":"Lamborghini Revuelto","year":2023,"color":"Red","price":573966,"image":"revuelto.jpg","specifications":{"engine":"6.5L V12 hybrid","horsepower":819,"0-60mph":"2.5s","top_speed":"221 mph"}},
+{"name":"Lamborghini Terzo Millennio","year":2024,"color":"White","price":3000000,"image":"terzo_millennio.jpg","specifications":{"engine":"Electric","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Lamborghini Lanzador","year":2025,"color":"Blue","price":450000,"image":"lanzador.avif","specifications":{"engine":"6.5L V12 hybrid","horsepower":819,"0-60mph":"2.4s","top_speed":"221 mph"}},
+{"name":"Lamborghini Egoista","year":2026,"color":"Red","price":3500000,"image":"egoista.jpg","specifications":{"engine":"5.2L V10","horsepower":600,"0-60mph":"2.9s","top_speed":"202 mph"}},
+
+{"name":"Ferrari LaFerrari","year":2018,"color":"Red","price":1500000,"image":"laferrari.jpg","specifications":{"engine":"6.3L V12 hybrid","horsepower":950,"0-60mph":"2.6s","top_speed":"217 mph"}},
+{"name":"Ferrari Enzo","year":2019,"color":"Red","price":2800000,"image":"enzo.jpg","specifications":{"engine":"6.0L V12","horsepower":651,"0-60mph":"3.1s","top_speed":"217 mph"}},
+{"name":"Ferrari 488 GTB","year":2019,"color":"Red","price":262647,"image":"ferrari.jpeg","specifications":{"engine":"3.9L V8","horsepower":660,"0-60mph":"3.0s","top_speed":"205 mph"}},
+{"name":"Ferrari 812 Superfast","year":2020,"color":"Yellow","price":335000,"image":"ferrari_812.webp","specifications":{"engine":"6.5L V12","horsepower":789,"0-60mph":"2.8s","top_speed":"211 mph"}},
+{"name":"Ferrari SF90 Stradale","year":2020,"color":"Red","price":650000,"image":"ferrari_sf90.webp","specifications":{"engine":"3.9L V8 hybrid","horsepower":1020,"0-60mph":"2.5s","top_speed":"217 mph"}},
+{"name":"Ferrari Roma","year":2020,"color":"Blue","price":222620,"image":"ferrari_roma.avif","specifications":{"engine":"3.9L V8","horsepower":612,"0-60mph":"3.4s","top_speed":"199 mph"}},
+{"name":"Ferrari Portofino M","year":2021,"color":"White","price":226000,"image":"ferrari_portofino.avif","specifications":{"engine":"3.9L V8","horsepower":612,"0-60mph":"3.5s","top_speed":"199 mph"}},
+{"name":"Ferrari F8 Tributo","year":2021,"color":"Yellow","price":276550,"image":"ferrari_f8.jpg","specifications":{"engine":"3.9L V8","horsepower":710,"0-60mph":"2.9s","top_speed":"211 mph"}},
+{"name":"Ferrari 296 GTB","year":2022,"color":"Red","price":320000,"image":"ferrari_296.webp","specifications":{"engine":"3.0L V6 hybrid","horsepower":818,"0-60mph":"2.9s","top_speed":"205 mph"}},
+{"name":"Ferrari Purosangue","year":2023,"color":"Blue","price":390000,"image":"ferrari_purosangue.jpg","specifications":{"engine":"6.5L V12","horsepower":715,"0-60mph":"3.3s","top_speed":"193 mph"}},
+{"name":"Ferrari Daytona SP3","year":2024,"color":"Red","price":2000000,"image":"ferrari_daytona.avif","specifications":{"engine":"6.5L V12","horsepower":840,"0-60mph":"2.85s","top_speed":"211 mph"}},
+{"name":"Ferrari 812 Competizione A","year":2025,"color":"Yellow","price":400000,"image":"ferrari_812_competizione.jpg","specifications":{"engine":"6.5L V12","horsepower":819,"0-60mph":"2.85s","top_speed":"211 mph"}},
+{"name":"Ferrari Hypercar","year":2026,"color":"Red","price":2500000,"image":"ferrari_hypercar.jpg","specifications":{"engine":"Hybrid V12","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+
+
+{"name":"Porsche 911 Carrera S","year":2018,"color":"Gray","price":115000,"image":"carrera.jpg","specifications":{"engine":"3.0L Flat6","horsepower":420,"0-60mph":"4.0s","top_speed":"188 mph"}},
+{"name":"Porsche 911 GT2 RS","year":2019,"color":"Red","price":293200,"image":"gt2rs.jpg","specifications":{"engine":"3.8L Flat6 twin-turbocharged","horsepower":700,"0-60mph":"2.7s","top_speed":"211 mph"}},
+{"name":"Porsche 911 Speedster","year":2020,"color":"Blue","price":274500,"image":"speedster.webp","specifications":{"engine":"4.0L Flat6","horsepower":502,"0-60mph":"3.5s","top_speed":"192 mph"}},
+{"name":"Porsche 911 TurboS","year":2021,"color":"White","price":203500,"image":"porsche.jpg","specifications":{"engine":"3.0L Flat6","horsepower":570,"0-60mph":"2.6s","top_speed":"205 mph"}},
+{"name":"Porsche Taycan Turbo S","year":2022,"color":"Silver","price":185000,"image":"taycan.jpg","specifications":{"engine":"Electric","horsepower":750,"0-60mph":"2.4s","top_speed":"161 mph"}},
+{"name":"Porsche 911 Turbo GT","year":2023,"color":"Green","price":210000,"image":"porsche_911_turbo_gt.jpg","specifications":{"engine":"3.8L Flat6 twin-turbocharged","horsepower":640,"0-60mph":"2.7s","top_speed":"205 mph"}},
+{"name":"Porsche 911 GT3 RS","year":2024,"color":"Yellow","price":250000,"image":"porsche_911_gt3_rs.jpg","specifications":{"engine":"4.0L Flat6","horsepower":"Over 700","0-60mph":"<2.5s","top_speed":"Over 205 mph"}},
+{"name":"Porsche Mission R","year":2025,"color":"Black","price":500000,"image":"porsche_mission_r.jpg","specifications":{"engine":"Electric","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 200 mph"}},
+{"name":"Porsche Hypercar","year":2026,"color":"Metallic silver light gray","price":300000,"image":"porsche_mission_x_hypercar.jpeg","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+
+
+{"name":"McLaren 720S","year":2018,"color":"Orange","price":299000,"image":"mclaren.jpg","specifications":{"engine":"4.0L V8","horsepower":720,"0-60mph":"2.8s","top_speed":"217 mph"}},
+{"name":"McLaren P1","year":2019,"color":"Green","price":1150000,"image":"p1.jpg","specifications":{"engine":"3.8L V8 hybrid","horsepower":903,"0-60mph":"2.6s","top_speed":"217 mph"}},
+{"name":"McLaren Artura","year":2020,"color":"Blue","price":225000,"image":"artura.jpg","specifications":{"engine":"3.0L V6 hybrid","horsepower":671,"0-60mph":"2.9s","top_speed":"205 mph"}},
+{"name":"McLaren Senna","year":2021,"color":"Red","price":1000000,"image":"senna.jpg","specifications":{"engine":"4.0L V8","horsepower":800,"0-60mph":"2.7s","top_speed":"208 mph"}},
+{"name":"McLaren Speedtail","year":2022,"color":"Silver","price":2500000,"image":"speedtail.jpg","specifications":{"engine":"4.0L V8 hybrid","horsepower":1036,"0-60mph":"2.5s","top_speed":"250 mph"}},
+{"name":"McLaren Elva","year":2023,"color":"Gold","price":1500000,"image":"elva.jpg","specifications":{"engine":"4.0L V8","horsepower":804,"0-60mph":"2.8s","top_speed":"204 mph"}},
+{"name":"McLaren Hyper-GT","year":2024,"color":"Black","price":300000,"image":"mclaren_hyper_gt.jpg","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"McLaren Ultimate Series","year":2025,"color":"Orange","price":4000000,"image":"mclaren_ultimate_series.png","specifications":{"engine":"Hybrid V12","horsepower":"Over 1100","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"McLaren Hypercar","year":2026,"color":"Blue","price":3500000,"image":"mclaren_hypercar.png","specifications":{"engine":"Hybrid V12","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+
+{"name":"Bugatti Divo","year":2018,"color":"Blue","price":5800000,"image":"divo.jpg","specifications":{"engine":"8.0L W16","horsepower":1500,"0-60mph":"2.4s","top_speed":"236 mph"}},
+{"name":"Bugatti Veyron","year":2019,"color":"Black","price":1500000,"image":"veyron.jpg","specifications":{"engine":"8.0L W16","horsepower":1001,"0-60mph":"2.5s","top_speed":"253 mph"}},
+{"name":"Bugatti Chiron","year":2020,"color":"Blue","price":2998000,"image":"bugatti.jpg","specifications":{"engine":"8.0L W16","horsepower":1500,"0-60mph":"2.4s","top_speed":"313 mph"}},
+{"name":"Bugatti Chiron Sport","year":2021,"color":"Red","price":3500000,"image":"chironsport.jpg","specifications":{"engine":"8.0L W16","horsepower":1578,"0-60mph":"2.3s","top_speed":"304 mph"}},
+{"name":"Bugatti Centodieci","year":2022,"color":"White","price":9000000,"image":"centodieci.jpg","specifications":{"engine":"8.0L W16","horsepower":1600,"0-60mph":"2.4s","top_speed":"236 mph"}},
+{"name":"Bugatti Bolide","year":2023,"color":"Yellow","price":4500000,"image":"bolide.webp","specifications":{"engine":"8.0L W16","horsepower":1825,"0-60mph":"2.2s","top_speed":"310 mph"}},
+{"name":"Bugatti La Voiture Noire","year":2024,"color":"Black","price":18000000,"image":"la_voiture_noire.jpg","specifications":{"engine":"8.0L W16","horsepower":1500,"0-60mph":"2.4s","top_speed":"261 mph"}},
+{"name":"Bugatti Hypercar","year":2025,"color":"Blue","price":5000000,"image":"bugatti_hypercar.png","specifications":{"engine":"Hybrid W16","horsepower":"Over 2000","0-60mph":"<2s","top_speed":"Over 300 mph"}},
+{"name":"Bugatti Next-Gen Hypercar","year":2026,"color":"Blue","price":6000000,"image":"bugatti_next_gen_hypercar.png","specifications":{"engine":"Hybrid W16","horsepower":"Over 2000","0-60mph":"<2s","top_speed":"Over 300 mph"}},
+
+
+{"name":"Aston Martin DB11","year":2018,"color":"Silver","price":192000,"image":"db11.jpg","specifications":{"engine":"5.2L V12","horsepower":600,"0-60mph":"3.9s","top_speed":"200 mph"}},
+{"name":"Aston Martin DB11","year":2019,"color":"Green","price":205600,"image":"astonmartin.jpeg","specifications":{"engine":"4.0L V8","horsepower":570,"0-60mph":"3.2s","top_speed":"205 mph"}},
+{"name":"Aston Martin DBS Superleggera","year":2020,"color":"Red","price":350000,"image":"dbs_superleggera.jpg","specifications":{"engine":"5.2L V12","horsepower":775,"0-60mph":"2.9s","top_speed":"217 mph"}},
+{"name":"Aston Martin Vanquish S","year":2021,"color":"Black","price":450000,"image":"vanquish_s.avif","specifications":{"engine":"5.2L V12","horsepower":775,"0-60mph":"3.1s","top_speed":"217 mph"}},
+{"name":"Aston Martin Vantage","year":2022,"color":"Blue","price":142000,"image":"vantage.avif","specifications":{"engine":"4.0L V8","horsepower":503,"0-60mph":"3.5s","top_speed":"195 mph"}},
+{"name":"Aston Martin Valkyrie","year":2023,"color":"Yellow","price":3500000,"image":"valkyrie.jpg","specifications":{"engine":"6.5L V12 hybrid","horsepower":1485,"0-60mph":"<2s","top_speed":"Over 248 mph"}},
+{"name":"Aston Martin Hypercar","year":2024,"color":"Blue","price":500000,"image":"astonmartin_hypercar.png","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Aston Martin Vanquish","year":2025,"color":"Silver","price":1110000,"image":"astonmartin_vanquish.avif","specifications":{"engine":"Hybrid V12","horsepower":"Over 1200","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Aston Martin Valhalla","year":2026,"color":"Black","price":700000,"image":"astonmartin_valhalla.webp","specifications":{"engine":"Hybrid V8","horsepower":"Over 1100","0-60mph":"<2.5s","top_speed":"Over 217 mph"}},
+
+
+
+{"name":"Mercedes-AMG GT R","year":2018,"color":"Green","price":162900,"image":"amg_gt_r.jpg","specifications":{"engine":"4.0L V8","horsepower":577,"0-60mph":"3.5s","top_speed":"198 mph"}},
+{"name":"Mercedes-AMG C63 S","year":2019,"color":"Gray","price":69900,"image":"amg_c63_s.jpg","specifications":{"engine":"4.0L V8","horsepower":503,"0-60mph":"3.8s","top_speed":"180 mph"}},
+{"name":"Mercedes-AMG E63 S","year":2020,"color":"White","price":107500,"image":"amg_e63_s.webp","specifications":{"engine":"4.0L V8","horsepower":603,"0-60mph":"3.3s","top_speed":"186 mph"}},
+{"name":"Mercedes-AMG GT R","year":2021,"color":"Black","price":163900,"image":"mercedes.webp","specifications":{"engine":"4.0L V8","horsepower":577,"0-60mph":"3.1s","top_speed":"205 mph"}},
+{"name":"Mercedes-AMG GT R","year":2022,"color":"Dark Purple","price":142900,"image":"amg_gt.jpg","specifications":{"engine":"4.0L V8","horsepower":523,"0-60mph":"3.7s","top_speed":"189 mph"}},
+{"name":"Mercedes-AMG One","year":2023,"color":"Red","price":2750000,"image":"amg_one.jpg","specifications":{"engine":"1.6L V6 hybrid","horsepower":1000,"0-60mph":"2.7s","top_speed":"217 mph"}},
+{"name":"Mercedes-AMG Hypercar","year":2024,"color":"Gray","price":500000,"image":"mercedes_hypercar.webp","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Mercedes-Benz S-Class","year":2025,"color":"Gray","price":117750,"image":"mercedes_benz's.avif","specifications":{"engine":"Hybrid V12","horsepower":"Over 1100","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Mercedes-AMG GT XX","year":2026,"color":"Orange","price":106500,"image":"mercedes_gt_xx.jpg","specifications":{"engine":"Hybrid V12","horsepower":"Over 1341","0-60mph":"<2s", "top_speed": "Over 223 mph"}},
+
+
+
+
+{"name":"BMW M4 GTS","year":2018,"color":"Blue","price":133000,"image":"m4_gts.png","specifications":{"engine":"3.0L inline-6 twin-turbocharged","horsepower":493,"0-60mph":"3.7s","top_speed":"189 mph"}},
+{"name":"BMW i8","year":2019,"color":"White","price":147500,"image":"i8.png","specifications":{"engine":"1.5L inline-3 hybrid","horsepower":369,"0-60mph":"4.2s","top_speed":"155 mph"}},                           
+{"name":"BMW M8 Competition","year":2020,"color":"Gray","price":133000,"image":"bmw.jpg","specifications":{"engine":"4.4L V8","horsepower":575,"0-60mph":"3.1s","top_speed":"217 mph"}},
+{"name":"BMW M8 Competition","year":2021,"color":"Black","price":145000,"image":"m8_competition.jpg","specifications":{"engine":"4.4L V8","horsepower":617,"0-60mph":"3.0s","top_speed":"190 mph"}},
+{"name":"BMW M4 CSL","year":2022,"color":"Gray","price":140000,"image":"m4_csl.jpg","specifications":{"engine":"3.0L inline-6 twin-turbocharged","horsepower":543,"0-60mph":"3.7s","top_speed":"189 mph"}},
+{"name":"BMW i4 M50","year":2023,"color":"Blue","price":65000,"image":"i4_m50.jpg","specifications":{"engine":"Electric","horsepower":536,"0-60mph":"3.7s","top_speed":"140 mph"}},
+{"name":"BMW M2 CS","year":2024,"color":"Green","price":85000,"image":"m2_cs.jpg","specifications":{"engine":"3.0L inline-6 twin-turbocharged","horsepower":444,"0-60mph":"4.0s","top_speed":"174 mph"}},
+{"name":"BMW i7","year":2025,"color":"Silver","price":300000,"image":"bmw_i7.jpg","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<5s","top_speed":"Over 204 mph"}},
+{"name":"BMW iM Hyper electric car", "year": 2026, "color": "Copper", "price": 400000, "image": "bmw_iM_hypercar.jpg", "specifications":{"engine": "Hybrid EV Quad-motor", "horsepower": "Over 1000", "0-60mph": "<3s", "top_speed": "Over 155 mph"}},
+
+
+
+
+
+{"name":"Jaguar F-Type SVR","year":2018,"color":"Red","price":55000,"image":"jaguar.jpg","specifications":{"engine":"5.0L V8","horsepower":544,"0-60mph":"3.9s","top_speed":"217 mph"}},
+{"name":"Jaguar F-Type SVR","year":2019,"color":"Blue","price":87777,"image":"jaguar_type_svr.jpg","specifications":{"engine":"5.0L V8","horsepower":544,"0-60mph":"3.9s","top_speed":"217 mph"}},
+{"name":"Jaguar F-Type R","year":2020,"color":"Blue","price":141669,"image":"f_type_r.jpg","specifications":{"engine":"5.0L V8","horsepower":575,"0-60mph":"3.5s","top_speed":"186 mph"}},
+{"name":"Jaguar F-Type R-Dynamic","year":2021,"color":"White","price":80000,"image":"f_type_r_dynamic.jpg","specifications":{"engine":"2.0L inline-4 turbocharged","horsepower":296,"0-60mph":"5.4s","top_speed":"155 mph"}},
+{"name":"Jaguar F-Type P300","year":2022,"color":"Black","price":34000,"image":"f_type_p300.jpg","specifications":{"engine":"2.0L inline-4 turbocharged","horsepower":296,"0-60mph":"5.4s","top_speed":"155 mph"}},
+{"name":"Jaguar F-Pace","year":2023,"color":"Black","price":85000,"image":"f_Pace_2023.webp","specifications":{"engine":"3.0L V6 supercharged","horsepower":380,"0-60mph":"4.9s","top_speed":"171 mph"}},
+{"name":"Jaguar F-75 Eidition","year":2024,"color":"Silver","price":400000,"image":"jaguar_f75_edition.webp","specifications":{"engine":"Hybrid V8","horsepower":"Over 575","0-60mph":"<3s","top_speed":"Over 186 mph"}},
+{"name":"Jaguar CX75 Hypercar","year":2025,"color":"Green","price":800000,"image":"jaguar_cx75_hypercar.avif","specifications":{"engine":"Hybrid V8","horsepower":"Over 600","0-60mph":"<2s","top_speed":"Over 220 mph"}},
+{"name":"Jaguar-E-GT-Avarvarii_egwadr","year":2026,"color":"Red","price":125000,"image":"jaguar_e_gt_avarvarii_egwadr.webp","specifications":{"engine":"Fully electric (dual- or tri-motor configurations)","horsepower":"Over 1000hp","0-60mph":"<2s","top_speed":"Over 155 mph"}},
+
+
+
+
+{"name":"Tesla Roadster","year":2022,"color":"Silver","price":200000,"image":"tesla.jpg","specifications":{"engine":"Electric","horsepower":1000,"0-60mph":"1.9s","top_speed":"250 mph"}},
+{"name":"Tesla Model S Plaid","year":2021,"color":"Red","price":130000,"image":"model_s.jpg","specifications":{"engine":"Electric","horsepower":1020,"0-60mph":"1.99s","top_speed":"200 mph"}},
+{"name":"Tesla Cybertruck","year":2023,"color":"Gray","price":69900,"image":"cybertruck.jpg","specifications":{"engine":"Electric","horsepower":800,"0-60mph":"2.9s","top_speed":"130 mph"}},
+{"name":"Tesla Semi","year":2024,"color":"White","price":150000,"image":"tesla_semi.avif","specifications":{"engine":"Electric","horsepower":1000,"0-60mph":"20s (with max load)","top_speed":"65 mph"}},
+{"name":"Tesla Next-Gen Roadster","year":2025,"color":"Black","price":250000,"image":"tesla_next_gen_roadster.jpeg","specifications":{"engine":"Electric","horsepower":1254,"zero_to_sixty_mph ":"< 1.5 s", "top_speed ":"Over 354 mph"}},
+{"name":"Tesla Q","year":2026,"color":"Red","price":25000,"image":"tesla_q.jpg","specifications":{"engine":"Electric","horsepower":"Over 1500","0-60mph":"<1.5s","top_speed":"Over 300 mph"}},
+
+
+
+
+
+{"name":"Chevrolet Camaro ZL1","year":2018,"color":"Yellow","price":62000,"image":"camaro.jpg","specifications":{"engine":"6.2L V8 supercharged","horsepower":650,"0-60mph":"3.5s","top_speed":"198 mph"}},
+{"name":"Chevrolet Corvette C8","year":2019,"color":"Red","price":59000,"image":"corvette_c8.jpeg","specifications":{"engine":"6.2L V8","horsepower":495,"0-60mph":"2.9s","top_speed":"194 mph"}},
+{"name":"Chevrolet Camaro SS","year":2020,"color":"Blue","price":42000,"image":"camaro_ss.avif","specifications":{"engine":"6.2L V8","horsepower":455,"0-60mph":"4.0s","top_speed":"165 mph"}},
+{"name":"Chevrolet Corvette Z06","year":2021,"color":"Black","price":87000,"image":"corvette.webp","specifications":{"engine":"6.2L V8","horsepower":755,"0-60mph":"3.0s","top_speed":"205 mph"}},
+{"name":"Chevrolet Corvette ZR1","year":2022,"color":"White","price":123000,"image":"corvette_zr1.jpg","specifications":{"engine":"6.2L V8 supercharged","horsepower":755,"0-60mph":"2.85s","top_speed":"212 mph"}},
+{"name":"Chevrolet Silverado EV","year":2023,"color":"Silver","price":105000,"image":"silverado_ev.webp","specifications":{"engine":"Electric","horsepower":664,"0-60mph":"4.5s","top_speed":"110 mph"}},
+{"name":"Chevrolet Corvette ZR1 9","year":2024,"color":"Yellow","price":300000,"image":"chevrolet_corvette_zr1_9.webp","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Chevrolet Next-Gen Hypercar","year":2025,"color":"Blue","price":400000,"image":"chevrolet_next_gen_hypercar.webp","specifications":{"engine":"Hybrid V12","horsepower":"Over 1100","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Chevrolet ZR1 X Hypercar","year":2026,"color":"Black","price":500000,"image":"chevrolet_zr1_x.avif","specifications":{"engine":"Hybrid V12","horsepower":"Over 1200","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+
+
+
+
+{"name":"Ford GT","year":2018,"color":"Blue","price":500000,"image":"ford_gt.jpg","specifications":{"engine":"3.5L V6 twin-turbocharged","horsepower":647,"0-60mph":"2.9s","top_speed":"216 mph"}},
+{"name":"Ford Mustang Shelby GT350","year":2019,"color":"Red","price":60000,"image":"shelby_gt350.webp","specifications":{"engine":"5.2L V8","horsepower":526,"0-60mph":"4.0s","top_speed":"180 mph"}},
+{"name":"Ford Mustang Shelby GT500","year":2020,"color":"Blue","price":73000,"image":"mustang.jpg","specifications":{"engine":"5.2L V8","horsepower":760,"0-60mph":"3.3s","top_speed":"180 mph"}},
+{"name":"Ford F-150 Raptor","year":2021,"color":"Black","price":65000,"image":"f150_raptor.avif","specifications":{"engine":"3.5L V6 twin-turbocharged","horsepower":450,"0-60mph":"5.1s","top_speed":"107 mph"}},
+{"name":"Ford Bronco Raptor","year":2022,"color":"Green","price":72000,"image":"bronco_raptor.jpg","specifications":{"engine":"3.0L V6 twin-turbocharged","horsepower":400,"0-60mph":"5.5s","top_speed":"107 mph"}},
+{"name":"Ford Mustang Mach-E GT","year":2023,"color":"Silver","price":61000,"image":"mustang_mach_e.jpg","specifications":{"engine":"Electric","horsepower":480,"0-60mph":"3.5s","top_speed":"130 mph"}},
+{"name":"Ford Mustang Race","year":2024,"color":"Red","price":300000,"image":"ford_mustang_race.avif","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Ford GT MK","year":2025,"color":"Blue","price":400000,"image":"ford_gt_mk.avif","specifications":{"engine":"Hybrid V12","horsepower":"Over 1100","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Ford Mustang GT Supercar","year":2026,"color":"Black","price":500000,"image":"ford_mutang_gt_supercar.webp","specifications":{"engine":"Hybrid V8","horsepower":"Over 1200","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+
+
+
+
+
+
+{"name":"Audi R8 V10 Plus","year":2018,"color":"Gray","price":169900,"image":"audi.webp","specifications":{"engine":"5.2L V10","horsepower":612,"0-60mph":"3.4s","top_speed":"217 mph"}},
+{"name":"Audi RS7","year":2019,"color":"Black","price":114000,"image":"rs7.webp","specifications":{"engine":"4.0L V8 twin-turbocharged","horsepower":591,"0-60mph":"3.5s","top_speed":"190 mph"}},
+{"name":"Audi e-tron GT","year":2020,"color":"Blue","price":99900,"image":"etron_gt.jpg","specifications":{"engine":"Electric","horsepower":637,"0-60mph":"3.1s","top_speed":"152 mph"}},
+{"name":"Audi RS Q8","year":2021,"color":"Red","price":115000,"image":"rs_q8.jpg","specifications":{"engine":"4.0L V8 twin-turbocharged","horsepower":591,"0-60mph":"3.7s","top_speed":"190 mph"}},
+{"name":"Audi S8","year":2022,"color":"Blue","price":130000,"image":"s8.jpg","specifications":{"engine":"4.0L V8 twin-turbocharged","horsepower":563,"0-60mph":"3.8s","top_speed":"190 mph"}},
+{"name":"Audi RS e-tron GT","year":2023,"color":"White","price":139900,"image":"rs_etron_gt.webp","specifications":{"engine":"Electric","horsepower":637,"0-60mph":"3.1s","top_speed":"155 mph"}},
+{"name":"Audi Hypercar","year":2024,"color":"Gray","price":300000,"image":"audi_hypercar.jpg","specifications":{"engine":"Hybrid V8","horsepower":"Over 1000","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Audi A6 ","year":2025,"color":"Blue","price":400000,"image":"audi_a6.jpg","specifications":{"engine":"Hybrid V12","horsepower":"Over 1100","0-60mph":"<2s","top_speed":"Over 217 mph"}},
+{"name":"Audi SQ6 e-tron","year":2026,"color":"Black","price":500000,"image":"audi_sq6_e_tron.jpeg","specifications":{"engine":"Hybrid EV Quad-motor","horsepower":"Over 509","0-60mph":"<4.1s","top_speed":"Over 230 mph"}},
+
+
+
+{"name":"Nissan GT-R Nismo","year":2018,"color":"Red","price":210740,"image":"nissan.avif","specifications":{"engine":"3.8L V6 twin-turbocharged","horsepower":600,"0-60mph":"2.9s","top_speed":"196 mph"}},
+{"name":"Nissan Kick","year":2019,"color":"Blue","price":19700,"image":"nissan_kick.jpg","specifications":{"engine":"1.3L HR13DDT, 4-cylinder, DOHC, turbocharged","horsepower":154,"0-60mph":"9s","top_speed":"165 mph"}},
+{"name":"Nissan 370Z Nismo","year":2020,"color":"Blue","price":45000,"image":"370z_nismo.jpg","specifications":{"engine":"3.7L V6","horsepower":350,"0-60mph":"4.5s","top_speed":"155 mph"}},
+{"name":"Nissan GT-R","year":2021,"color":"Black","price":113540,"image":"gtr.jpg","specifications":{"engine":"3.8L V6 twin-turbocharged","horsepower":565,"0-60mph":"2.9s","top_speed":"196 mph"}},
+{"name":"Nissan Z Proto","year":2022,"color":"Yellow","price":41000,"image":"z_proto.webp","specifications":{"engine":"3.0L V6 twin-turbocharged","horsepower":400,"0-60mph":"4.5s","top_speed":"155 mph"}},
+{"name":"Nissan Ariya e-4ORCE","year":2023,"color":"Copper","price":67000,"image":"ariya_e4orce.jpg","specifications":{"engine":"Electric","horsepower":389,"0-60mph":"5.1s","top_speed":"115 mph"}},
+{"name":"Nissan Z","year":2024,"color":"Sky-Gray","price":300000,"image":"nissan_z.jpeg","specifications":{"engine":"3.0L Twin-Turbo V6","horsepower":"Over 400","0-60mph":"<4s","top_speed":"Over 155 mph"}},
+{"name":"Nissan Qashqai","year":2025,"color":"Blue","price":400000,"image":"nissan_qashqai.jpg","specifications":{"engine":"1.5-liter, 3-cylinder inline petrol (KR15DDT)","horsepower":"Over 4600","0-60mph":"<7.5s","top_speed":"Over 105.6 mph"}},
+{"name":"Nissan Tekton","year":2026,"color":"Gray","price":13300,"image":"nissan_tekton.avif","specifications":{"engine":"1.3-litre turbocharged petrol","horsepower":"Over 5500","0-60mph":"<9.5s","top_speed":"Over 200 mph"}}, 
+
+
+
+
+
+
+{"name":"Cadillac CTS-V","year":2018,"color":"Black","price":85000,"image":"cts_v.jpeg","specifications":{"engine":"6.2L V8 supercharged","horsepower":640,"0-60mph":"3.7s","top_speed":"200 mph"}},
+{"name":"Cadillac ATS-V","year":2019,"color":"Blue","price":61000,"image":"ats_v.jpg","specifications":{"engine":"3.6L V6 twin-turbocharged","horsepower":464,"0-60mph":"3.8s","top_speed":"189 mph"}},
+{"name":"Cadillac CT5-V Blackwing","year":2020,"color":"Sky-Blue","price":72000,"image":"ct5_v_blackwing.jpg","specifications":{"engine":"6.2L V8 supercharged","horsepower":668,"0-60mph":"3.4s","top_speed":"200 mph"}},
+{"name":"Cadillac Escalade V","year":2021,"color":"White","price":105000,"image":"escalade_v.jpeg","specifications":{"engine":"6.2L V8 supercharged","horsepower":682,"0-60mph":"4.4s","top_speed":"130 mph"}},
+{"name":"Cadillac Lyriq","year":2022,"color":"Silver","price":60000,"image":"lyriq.jpg","specifications":{"engine":"Electric","horsepower":340,"0-60mph":"5.1s","top_speed":"130 mph"}},
+{"name":"Cadillac Celestiq","year":2023,"color":"Gray","price":300000,"image":"celestiq.avif","specifications":{"engine":"Electric","horsepower":1115,"0-60mph":"3.8s","top_speed":"155 mph"}},
+{"name":"Cadillac XT4","year":2024,"color":"Metallic-Aqua","price":39532,"image":"cadillac_xt4.webp","specifications":{"engine":" 2.0-liter turbocharged four-cylinder","horsepower":"Over 5000","0-60mph":"<6s","top_speed":"Over 130 mph"}},
+{"name":"Cadillac XT5","year":2025,"color":"Red","price":44249,"image":"cadillac_XT5.jpeg","specifications":{"engine":"2.0L turbo I4 (235 hp) or 3.6L V6 (310 hp)","horsepower":"Over 5000","0-60mph":"<6.7s","top_speed":"Over 141 mph (227 km/h)"}},
+{"name":"Cadillac XT6","year":2026,"color":"Black","price":600000,"image":"cadillac_xt6.webp","specifications":{"engine":"2.0L turbocharged inline-4 (LSY)","horsepower":"Over 5000","0-60mph":"<8s","top_speed":"Over 125 mph  (201 km/h)"}},
+
+
+
+{"name":"Rezvani Beast","year":2018,"color":"Orange","price":200000,"image":"rezvani_beast.jpg","specifications":{"engine":"2.4L inline-4 turbocharged","horsepower":500,"0-60mph":"3.5s","top_speed":"190 mph"}},
+{"name":"Rezvani Tank","year":2019,"color":"Green","price":178500,"image":"rezvani_tank1_2019.webp","specifications":{"engine":"6.4L V8","horsepower":500,"0-60mph":"4.5s","top_speed":"130 mph"}},
+{"name":"Rezvani Beast Alpha","year":2020,"color":"Blue","price":225000,"image":"rezvani_beast_alpha.jpg","specifications":{"engine":"2.4L inline-4 turbocharged","horsepower":500,"0-60mph":"3.5s","top_speed":"190 mph"}},
+{"name":"Rezvani Hercules","year":2021,"color":"Black","price":349000,"image":"rezvani_hercules.webp","specifications":{"engine":"6.2L V8 supercharged","horsepower":1000,"0-60mph":"3.7s","top_speed":"130 mph"}},
+{"name":"Rezvani Beast X","year":2022,"color":"Red","price":325000,"image":"rezvani_beast_x.webp","specifications":{"engine":"2.5L inline-4 turbocharged","horsepower":700,"0-60mph":"2.9s","top_speed":"205 mph"}},
+{"name":"Rezvani Tank X","year":2023,"color":"White","price":199995,"image":"rezvani_tank_x.jpg","specifications":{"engine":"6.2L V8 supercharged","horsepower":500,"0-60mph":"4.5s","top_speed":"130 mph"}},
+{"name":"Rezvani Beast Alpha X","year":2024,"color":"Silver","price":275000,"image":"rezvani_beast_alpha_x.jpg","specifications":{"engine":"2.5L inline-4 turbocharged","horsepower":700,"0-60mph":"2.9s","top_speed":"205 mph"}},
+{"name":"Rezvani Hercules X","year":2025,"color":"Gray","price":375000,"image":"rezvani_hercules_x.webp","specifications":{"engine":"6.2L V8 supercharged","horsepower":1000,"0-60mph":"3.7s","top_speed":"130 mph"}},
+{"name":"Rezvani Tank","year":2026,"color":"Matte Black","price":349000,"image":"rezvani_tank.jpeg","specifications":{"engine":"6.2L V8 supercharged","horsepower":"Over 1000","0-60mph":"3.5s","top_speed":"155 mph"}}]
